@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="627" viewBox="0 0 1200 627">
+  <rect width="1200" height="627" fill="#111827"/>
+  <rect x="400" y="200" width="400" height="227" rx="20" fill="#1f2937" stroke="#c9a84c" stroke-width="2" stroke-opacity="0.3"/>
+  <text x="600" y="314" text-anchor="middle" fill="#c9a84c" font-size="60">🏠</text>
+  <text x="600" y="380" text-anchor="middle" fill="#64748b" font-size="20" font-family="Arial">تصویر در حال بارگذاری...</text>
+</svg>

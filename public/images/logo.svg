@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="نشان مُلک‌آی">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7e3a8"/>
+      <stop offset="0.5" stop-color="#e0bc63"/>
+      <stop offset="1" stop-color="#a8842f"/>
+    </linearGradient>
+    <linearGradient id="lgDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141c2e"/>
+      <stop offset="1" stop-color="#080d18"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="url(#lg)"/>
+  <rect x="6.5" y="6.5" width="51" height="51" rx="13" fill="url(#lgDark)"/>
+
+  <!-- بام خانه -->
+  <path d="M17 31 L32 18 L47 31" fill="none" stroke="url(#lg)" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- دو ستون = دو همسایه -->
+  <rect x="21" y="33" width="8.5" height="14" rx="2.2" fill="url(#lg)" opacity=".95"/>
+  <rect x="34.5" y="33" width="8.5" height="14" rx="2.2" fill="url(#lg)" opacity=".55"/>
+
+  <!-- پیوند میان دو واحد -->
+  <path d="M29.5 40 h5" stroke="#34d399" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
